@@ -1,0 +1,8 @@
+{
+  "name": "Chronos Log - WearOS Companion",
+  "description": "A minimalist WearOS-inspired productivity logger that transcribes your voice, summarizes it using Gemini, and prepares entries for Google Calendar and Sheets.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
